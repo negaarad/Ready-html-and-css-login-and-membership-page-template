@@ -1,0 +1,2 @@
+# Ready-html-and-css-login-and-membership-page-template
+This template is ready to join the site in a responsive way and has been designed and implemented using Bootstrap 4. In this form, the ability to select the type of membership in the site is provided. In this way, when a user intends to purchase products, he can register as a customer on the site, and when a user intends to receive a representative from your company, he can complete the agency registration form.  This template is fully responsive and brings you a good display on different devices.
